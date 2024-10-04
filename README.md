@@ -6,3 +6,6 @@ shradha khapra
 
 # Student
 Delta Student
+
+# Study
+I.T
